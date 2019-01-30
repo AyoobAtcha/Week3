@@ -25,6 +25,7 @@ public class ReviewArray {
         for(int i = wordLength-1; i >=0;i--){
             wordPer[i]= word.charAt(i);
             System.out.println (wordPer[i]);
+            System.out.println ("HI");
 
             
         }
